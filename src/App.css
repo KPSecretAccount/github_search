@@ -1,0 +1,30 @@
+#root {
+  padding-left: 30px;
+  text-align: left;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  vertical-align: top;
+  padding-top:30px;
+}
+
+img {
+  max-width: 200px;
+  padding-top: 10px;
+}
+
+
+
+button {
+  font-weight: 300;
+  border-radius: 0;
+  border: 1px solid #4184f2;
+  background-color: #4184f2;
+  cursor: pointer;
+  color:  black;
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
+
+input {
+  width: 500px;
+  height: 40px;
+}
